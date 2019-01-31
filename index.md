@@ -4,7 +4,7 @@ SF Bay Area Data Scientist, with mobile (iOS and Android) background.
 
 Primarily focused on Financial and Telecom verticals.
 
-### Projects
+### Projects<img style="float: right;" alt="" src="15.PNG" height="150">
 
 #### [Interesting Seaborn Charts](https://colab.research.google.com/drive/1wr1drwdu_s7UCa_qG6OqQdQtXm4RTanZ)
 
@@ -12,5 +12,5 @@ Primarily focused on Financial and Telecom verticals.
 
 Project analyzes the abject failures of Philadelphia professional sports organizations over the last fifty years
 
-### Contact​<img src="15.PNG" height="150">
+### Contact​
 [Email](mailto:tahoesw@gmail.com)
