@@ -13,5 +13,6 @@ Primarily focused on Financial and Telecom verticals.
 
 Project analyzes the abject failures of Philadelphia professional sports organizations over the last fifty years
 
+<img style="float: right" src="03.PNG" height="150"><div style="clear:both">
 ### Contact​
 [Email](mailto:tahoesw@gmail.com)
