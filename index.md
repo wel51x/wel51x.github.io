@@ -1,4 +1,4 @@
-### Data Scientist
+### Data Scientist<img style="float: right" src="MoiJun2016Cropped2.jpg" height="150"><div style="clear:both">
 
 SF Bay Area Data Scientist, with mobile (iOS and Android) background.
 
