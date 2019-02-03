@@ -1,11 +1,11 @@
 <p style="text-align:center;"><img src="scifi2.jpg" alt="hdr" height="180"></p>
 
 <h1>
-<p style="text-align:center;">Data Scientist<img style="float: right" src="MoiJun2016Cropped2.jpg" height="150"></p>
+Data Scientist<img style="float: right" src="MoiJun2016Cropped2.jpg" height="150">
 </h1>
-<p style="text-align:center;">SF Bay Area Data Scientist, with mobile (iOS and Android) background.</p>
+SF Bay Area Data Scientist, with mobile (iOS and Android) background.
 
-<p style="text-align:center;">Primarily focused on Financial and Telecom verticals.</p>
+Primarily focused on Financial and Telecom verticals.
 ### Projects
 
 #### [Interesting Seaborn Charts](https://colab.research.google.com/drive/1wr1drwdu_s7UCa_qG6OqQdQtXm4RTanZ)
