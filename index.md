@@ -1,3 +1,5 @@
+<img src="scifi2.jpg" class="center">
+
 ### Data Scientist<img style="float: right" src="MoiJun2016Cropped2.jpg" height="150">
 
 SF Bay Area Data Scientist, with mobile (iOS and Android) background.
