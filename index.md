@@ -1,4 +1,4 @@
-<img src="scifi2.jpg" align="middle">
+<p style="text-align:center;"><img src="scifi2.jpg">
 
 ### Data Scientist<img style="float: right" src="MoiJun2016Cropped2.jpg" height="150">
 
