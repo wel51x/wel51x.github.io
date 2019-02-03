@@ -1,7 +1,7 @@
 <p style="text-align:center;"><img src="scifi2.jpg" alt="hdr" height="180"></p>
 <h1>
-<img style="src="15.PNG" height="150"><p style="text-align:center;">Data Scientist
-  <img style="float: right" src="MoiJun2016Cropped2.jpg" height="150"></p>
+<img style="src="15.PNG" height="150">
+<p style="text-align:center;">Data Scientist<img style="float: right" src="MoiJun2016Cropped2.jpg" height="150"></p>
 </h1>
 <p style="text-align:center;">SF Bay Area Data Scientist, with mobile (iOS and Android) background.</p>
 
