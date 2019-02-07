@@ -8,11 +8,11 @@ SF Bay Area Data Scientist, with mobile (iOS and Android) background.
 Primarily focused on Financial and Telecom verticals.
 ### Projects
 
-#### [Interesting Seaborn Charts](https://colab.research.google.com/drive/1wr1drwdu_s7UCa_qG6OqQdQtXm4RTanZ)
-
-#### [Ya sure ya wanna move to California?](projhttps://medium.com/@faluovo/want-cheap-living-quarters-in-california-5614d01cdbc8)
+#### [Ya sure ya wanna move to California?](https://medium.com/@faluovo/want-cheap-living-quarters-in-california-5614d01cdbc8)
 
 Project is yet another analysis of California real estate trends
+
+#### [Interesting Seaborn Charts](https://colab.research.google.com/drive/1wr1drwdu_s7UCa_qG6OqQdQtXm4RTanZ)
 
 <p style="text-align:center;"><img src="15.PNG" alt="hdr" height="180"></p>
 ### Contact​
