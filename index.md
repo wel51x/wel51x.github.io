@@ -1,7 +1,7 @@
-<p style="text-align:center;"><img src="scifi2.jpg" alt="hdr" height="180"></p>
+<p style="text-align:center;"><img src="images/scifi2.jpg" alt="hdr" height="180"></p>
 
 <h1>
-Data Scientist<img style="float: right" src="MoiJun2016Cropped2.jpg" height="150">
+Data Scientist<img style="float: right" src="images/MoiJun2016Cropped2.jpg" height="150">
 </h1>
 SF Bay Area Data Scientist, with mobile (iOS and Android) background.
 
@@ -14,6 +14,6 @@ Project is yet another analysis of California real estate trends
 
 #### [Interesting Seaborn Charts](https://colab.research.google.com/drive/1wr1drwdu_s7UCa_qG6OqQdQtXm4RTanZ)
 
-<p style="text-align:center;"><img src="15.PNG" alt="hdr" height="380"></p>
+<p style="text-align:center;"><img src="images/15.PNG" alt="hdr" height="380"></p>
 ### Contact​
 [Email](mailto:tahoesw@gmail.com)
