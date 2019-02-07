@@ -10,9 +10,9 @@ Primarily focused on Financial and Telecom verticals.
 
 #### [Interesting Seaborn Charts](https://colab.research.google.com/drive/1wr1drwdu_s7UCa_qG6OqQdQtXm4RTanZ)
 
-#### [Philly?? Oh, no!!](project1)
+#### [Ya sure ya wanna move to California?](project1)
 
-Project analyzes the abject failures of Philadelphia professional sports organizations over the last fifty years
+Project is yet another analysis of California real estate trends
 
 <p style="text-align:center;"><img src="15.PNG" alt="hdr" height="180"></p>
 ### Contact​
