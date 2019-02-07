@@ -10,7 +10,7 @@ Primarily focused on Financial and Telecom verticals.
 
 #### [Interesting Seaborn Charts](https://colab.research.google.com/drive/1wr1drwdu_s7UCa_qG6OqQdQtXm4RTanZ)
 
-#### [Ya sure ya wanna move to California?](project1)
+#### [Ya sure ya wanna move to California?](projhttps://medium.com/@faluovo/want-cheap-living-quarters-in-california-5614d01cdbc8)
 
 Project is yet another analysis of California real estate trends
 
