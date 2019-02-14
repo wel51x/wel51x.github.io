@@ -14,6 +14,6 @@ Project is yet another analysis of California real estate trends
 
 #### [Interesting Seaborn Charts](https://colab.research.google.com/drive/1wr1drwdu_s7UCa_qG6OqQdQtXm4RTanZ)
 
-<p style="text-align:center;"><img src="images/15.PNG" alt="hdr" height="380"></p>
+<p style="text-align:center;"><img src="images/15.PNG" alt="hdr" height="375"></p>
 ### Contact​
 [Email](mailto:tahoesw@gmail.com)
